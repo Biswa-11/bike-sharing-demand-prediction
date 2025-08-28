@@ -45,7 +45,6 @@ bike-sharing-demand-prediction/
 │── README.md
 │── requirements.txt
 │── images/
-│── data/
 
 
 ## Dataset
