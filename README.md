@@ -44,7 +44,6 @@ bike-sharing-demand-prediction/
 │── Bike_Sharing_Demand_Prediction.ipynb
 │── README.md
 │── requirements.txt
-│── images/
 
 
 ## Dataset
